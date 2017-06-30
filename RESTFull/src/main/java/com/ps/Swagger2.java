@@ -20,7 +20,7 @@ public class Swagger2 {
 		return new Docket(DocumentationType.SWAGGER_2)
 				.apiInfo(apiInfo())
 				.select()
-				.apis(RequestHandlerSelectors.basePackage("com.veritas"))
+				.apis(RequestHandlerSelectors.basePackage("com.ps"))
 				.paths(PathSelectors.any())
 				.build();
 			
