@@ -5,3 +5,6 @@
 - Swagger and Jersey integration: https://stackoverflow.com/questions/37640863/springfox-swagger-no-api-docs-with-spring-boot-jersey-and-gardle/38004323#38004323
 ## Microservice
 https://www.zhihu.com/question/37808426/answer/93335393
+
+## REST命名规范
+http://blog.csdn.net/zghwaicsdn/article/details/53788535
