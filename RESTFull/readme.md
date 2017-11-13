@@ -8,3 +8,9 @@ https://www.zhihu.com/question/37808426/answer/93335393
 
 ## REST命名规范
 http://blog.csdn.net/zghwaicsdn/article/details/53788535
+
+The high level pattern is:
+http(s)://server.com/app-name/{version}/{domain}/{rest-convention}
+
+Restful API defination standard article:
+https://dzone.com/articles/restful-standard-resolved
