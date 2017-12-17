@@ -17,3 +17,6 @@ https://dzone.com/articles/restful-standard-resolved
 
 ## REST UT
 http://www.baeldung.com/restclienttest-in-spring-boot
+
+## Spring official document
+https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/
