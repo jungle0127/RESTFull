@@ -14,3 +14,6 @@ http(s)://server.com/app-name/{version}/{domain}/{rest-convention}
 
 Restful API defination standard article:
 https://dzone.com/articles/restful-standard-resolved
+
+## REST UT
+http://www.baeldung.com/restclienttest-in-spring-boot
