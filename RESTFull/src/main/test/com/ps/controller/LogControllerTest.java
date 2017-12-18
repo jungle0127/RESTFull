@@ -3,6 +3,7 @@ package com.ps.controller;
 import static org.springframework.test.web.client.match.MockRestRequestMatchers.requestTo;
 import static org.springframework.test.web.client.response.MockRestResponseCreators.withSuccess;
 
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -36,6 +37,7 @@ public class LogControllerTest {
 	
 	@Test
 	public void testGetNames() throws Exception {
+		Assert.assertTrue(true);
 //		String responseString = objectMapper.writeValueAsString(new Name("jinghe","zhang"));
 //		this.server.expect(requestTo("/jinghe/zhang"))
 //		.andRespond(withSuccess(responseString, MediaType.APPLICATION_JSON));
