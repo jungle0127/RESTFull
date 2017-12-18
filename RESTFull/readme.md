@@ -20,3 +20,5 @@ http://www.baeldung.com/restclienttest-in-spring-boot
 
 ## Spring official document
 https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/
+## Spring API online document
+https://docs.spring.io/spring/docs/current/javadoc-api/
