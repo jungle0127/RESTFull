@@ -30,3 +30,9 @@ https://docs.spring.io/spring/docs/current/javadoc-api/
 
 ## maven Jacoco
 mvn clean package
+
+## Java代码质量检测
+
+http://blog.csdn.net/zzq900503/article/details/49616959
+
+findbugs, PMD, CheckStyle
