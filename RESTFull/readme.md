@@ -27,3 +27,6 @@ https://docs.spring.io/spring/docs/current/javadoc-api/
 1. mvn clean compile findbugs:findbugs    清理原有的字节码文件，并生成findbugs XML报告
    mvn findbugs:gui  打开findbugs GUI工具查看扫描结果
 2. mvn clean compile surefire-report:report 生成findbugs HTML报告
+
+## maven Jacoco
+mvn clean package
