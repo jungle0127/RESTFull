@@ -22,3 +22,8 @@ http://www.baeldung.com/restclienttest-in-spring-boot
 https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/
 ## Spring API online document
 https://docs.spring.io/spring/docs/current/javadoc-api/
+
+## maven surefire plugin 使用
+1. mvn clean compile findbugs:findbugs    清理原有的字节码文件，并生成findbugs XML报告
+   mvn findbugs:gui  打开findbugs GUI工具查看扫描结果
+2. mvn clean compile surefire-report:report 生成findbugs HTML报告
