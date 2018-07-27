@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  contextPath: /rest
+spring:
+  jersey:
+    contextPath: /rest
